@@ -1,0 +1,3 @@
+slate_date,team_abbrev,player_name,impact,note
+# impact: negative logit penalty for the injured team (e.g. -0.03 light -0.06 key -0.10 star)
+2026-03-31,WSH,A. Ovechkin,-0.06,upper body manual flag
